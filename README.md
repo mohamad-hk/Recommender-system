@@ -46,6 +46,6 @@ pip install -r requirements.txt
 مقادیر خطا در هر چهار مدل بسیار نزدیک هستند و این نشان دهنده این است  که مدل‌ها توانسته‌ اند الگوی سیگنال را یاد بگیرند. مدل Linear و Ridge عملکرد یکسانی دارند که به دلیل کوچک بودن مقدار آلفا است، در حالی که Lasso و ElasticNet با اعمال جریمه، کمی خطا را افزایش داده‌اند.
 
 <p align="center">
-  <img src="images/output1.png"  width="40%" />
-  <img src="images/output2.png" width="30%" />
+  <img src="Images/output1.png"  width="40%" />
+  <img src="Images/output2.png" width="30%" />
 </p>
