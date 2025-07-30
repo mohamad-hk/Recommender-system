@@ -1,0 +1,5 @@
+kaggle~=1.7.4.5
+pandas~=2.3.1
+numpy~=2.3.1
+scikit-learn~=1.7.1
+scipy~=1.16.1
